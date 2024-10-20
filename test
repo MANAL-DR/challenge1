@@ -14,7 +14,7 @@ int p61, int p62, int p63, int p64, int p65, int p66, int p67, int p68, int p69,
  int p108, int p109, int p110, int p111, int p112, int p113, int p114, int p115, int p116, int p117,
 int p118, int p119, int p120, int p121, int p122, int p123, int p124, int p125, int p126, int p127,
 int p128, int p129, int p130, int p131, int p132, int p133, int p134, int p135, int p136, int p137){
-  cout<<"Appel reussi avec 317 parametres."<< endl;
+  cout<<"Appel reussi avec 137 parametres."<< endl;
 }
 
 int main()
@@ -28,7 +28,7 @@ int main()
   103 ,104 ,105 ,106 ,107 ,108 ,109 ,110 ,111 ,112 ,113 ,114 ,115 ,116 ,117 ,
   118 ,119 ,120 ,121 ,122 ,123 ,124 ,125 ,126 ,127 ,128 ,129 ,130 ,131 ,132 ,
   133 ,134 ,135 ,136 ,137)
-   cout << "Erreur lors de l'appel avec 317 parametres." << endl;
+   cout << "Erreur lors de l'appel avec 137 parametres." << endl;
 
     return 0;
 }
